@@ -1,6 +1,6 @@
 # blackjack-v1
 
-FIXME: description
+Script implementando pelas vídeoaulas do canal Cesar Alcancio: https://www.youtube.com/channel/UCZnhaVQBHXq0X-adDUZ2EjA
 
 ## Installation
 
